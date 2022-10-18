@@ -14,7 +14,7 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = 'ASPSE'
 DESCRIPTION = 'a new frame of IoT based on esp32 MCU'
-URL = 'https://github.com/me/myproject'
+URL = 'https://github.com/freedom-like/A-brand-new-framework-for-IoT-based-MCU.git'
 EMAIL = 'LiangBiaoYong@outlook.com'
 AUTHOR = 'LiangBiaoYong'
 REQUIRES_PYTHON = ''
